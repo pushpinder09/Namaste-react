@@ -1,0 +1,15 @@
+#heading
+{
+    flex: auto;
+    color: pink;
+    font-weight: 600;
+    height: 100px;
+    width: 1000px;
+    
+    
+}
+#root
+{
+    background-color: rebeccapurple;
+    justify-content: center;
+}
